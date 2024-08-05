@@ -1,0 +1,15 @@
+{
+  "auth" : {
+    "telegram": {
+      "token": ""
+    },
+    "gigachat": [
+      {
+        "auth_data" : ""
+      },
+      {
+        "scope" : ""
+      }
+    ]
+  }
+}

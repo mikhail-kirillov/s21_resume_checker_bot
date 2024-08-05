@@ -1,0 +1,4 @@
+aiogram==3.3.0
+langchain==0.1.6
+PyMuPDF==1.23.21
+langchain-community==0.0.19
